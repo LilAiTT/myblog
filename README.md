@@ -1,0 +1,2 @@
+# myblog
+record my thoughts
